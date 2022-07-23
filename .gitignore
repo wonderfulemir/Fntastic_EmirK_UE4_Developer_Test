@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+Task1/x64/
+Task1/ConsoleApplication1/x64/
+
 # Compiled Object files
 *.slo
 *.lo
